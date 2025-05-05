@@ -2,8 +2,8 @@
 
 A simple Discord bot that lets users log expenses directly into **Google Sheets** using chat commands.
 
-![1746409165730](https://github.com/user-attachments/assets/276d6de3-1a03-4754-ad54-8084b6556196)
-
+You can check out full demo video on:
+[https://www.linkedin.com/posts/mrunal-malkar_made-a-discord-bot-what-does-it-do-adds-activity-7323219034634629121-fF9x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFO_2iEBJ05LyWDbba3IKD1CaJ46wvY-sqg]
 ---
 
 ## 📌 What It Does
